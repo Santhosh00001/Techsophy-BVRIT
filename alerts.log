@@ -1,0 +1,356 @@
+2025-07-08 11:49:12,703 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:49:14,393 - 
+1 Failed download:
+2025-07-08 11:49:14,394 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:49:15,351 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:49:16,074 - 
+1 Failed download:
+2025-07-08 11:49:16,075 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:49:16,536 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:49:28,751 - 
+1 Failed download:
+2025-07-08 11:49:28,751 - ['GOOGL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.yahoo.com', port=443): Max retries exceeded with url: /?guccounter=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F22821F970>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 11:50:28,770 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:50:30,043 - 
+1 Failed download:
+2025-07-08 11:50:30,043 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:50:30,051 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:50:30,423 - 
+1 Failed download:
+2025-07-08 11:50:30,423 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:50:30,434 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:50:30,873 - 
+1 Failed download:
+2025-07-08 11:50:30,874 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:51:30,894 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:51:42,549 - 
+1 Failed download:
+2025-07-08 11:51:42,549 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v1/test/getcrumb (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F2281F5910>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 11:51:42,552 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:51:44,234 - 
+1 Failed download:
+2025-07-08 11:51:44,234 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 11:51:44,237 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 11:51:58,634 - 
+1 Failed download:
+2025-07-08 11:51:58,635 - ['GOOGL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?range=1d&interval=1m&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=Edge%3A+Too+Many+Requests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F2281F53D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 12:02:49,168 - Failed to get ticker 'AAPL' reason: HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v1/test/getcrumb (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000271371B8250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2025-07-08 12:02:50,260 - 
+1 Failed download:
+2025-07-08 12:02:50,260 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:02:51,852 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:02:54,109 - 
+1 Failed download:
+2025-07-08 12:02:54,109 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:02:54,764 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:02:58,151 - 
+1 Failed download:
+2025-07-08 12:02:58,151 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:04:00,105 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:04:03,566 - 
+1 Failed download:
+2025-07-08 12:04:03,566 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:04:03,576 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:04:04,068 - 
+1 Failed download:
+2025-07-08 12:04:04,068 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:04:04,073 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:04:04,508 - 
+1 Failed download:
+2025-07-08 12:04:04,508 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:05:04,530 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:05:17,145 - 
+1 Failed download:
+2025-07-08 12:05:17,145 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.yahoo.com', port=443): Max retries exceeded with url: /?guccounter=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002713720A790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 12:05:17,149 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:05:18,029 - 
+1 Failed download:
+2025-07-08 12:05:18,029 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:05:18,033 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:05:19,490 - 
+1 Failed download:
+2025-07-08 12:05:19,490 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:06:19,519 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:06:31,036 - 
+1 Failed download:
+2025-07-08 12:06:31,037 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.yahoo.com', port=443): Max retries exceeded with url: /?guccounter=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000271372A82B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 12:06:31,046 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:06:34,125 - 
+1 Failed download:
+2025-07-08 12:06:34,125 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:06:34,132 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:06:39,107 - 
+1 Failed download:
+2025-07-08 12:06:39,108 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:07:39,121 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:07:52,842 - 
+1 Failed download:
+2025-07-08 12:07:52,842 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v1/test/getcrumb (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000271371B82B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 12:07:52,846 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:07:53,455 - 
+1 Failed download:
+2025-07-08 12:07:53,455 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:07:53,463 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:07:53,876 - 
+1 Failed download:
+2025-07-08 12:07:53,876 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:08:53,886 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:08:57,115 - 
+1 Failed download:
+2025-07-08 12:08:57,115 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:08:57,121 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:08:59,684 - 
+1 Failed download:
+2025-07-08 12:08:59,684 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:08:59,688 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:09:03,123 - 
+1 Failed download:
+2025-07-08 12:09:03,123 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:10:03,141 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:10:05,145 - 
+1 Failed download:
+2025-07-08 12:10:05,145 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:10:05,148 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:10:05,912 - 
+1 Failed download:
+2025-07-08 12:10:05,912 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:10:05,916 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:10:07,451 - 
+1 Failed download:
+2025-07-08 12:10:07,451 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:11:07,471 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:11:18,564 - 
+1 Failed download:
+2025-07-08 12:11:18,565 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?range=1d&interval=1m&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=Edge%3A+Too+Many+Requests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000271371B8310>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 12:11:18,568 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:11:21,413 - 
+1 Failed download:
+2025-07-08 12:11:21,413 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 12:11:21,417 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 12:11:21,816 - 
+1 Failed download:
+2025-07-08 12:11:21,817 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:33:24,109 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:33:24,529 - 
+1 Failed download:
+2025-07-08 13:33:24,530 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:33:24,826 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:33:25,234 - 
+1 Failed download:
+2025-07-08 13:33:25,235 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:33:25,852 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:33:26,265 - 
+1 Failed download:
+2025-07-08 13:33:26,266 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:34:26,557 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:34:27,639 - 
+1 Failed download:
+2025-07-08 13:34:27,639 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:34:28,704 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:34:29,007 - 
+1 Failed download:
+2025-07-08 13:34:29,007 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:34:29,076 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:34:29,149 - 
+1 Failed download:
+2025-07-08 13:34:29,149 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:35:29,456 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:35:30,538 - 
+1 Failed download:
+2025-07-08 13:35:30,538 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:35:30,594 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:35:30,697 - 
+1 Failed download:
+2025-07-08 13:35:30,697 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:35:30,762 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:35:31,866 - 
+1 Failed download:
+2025-07-08 13:35:31,866 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:36:32,195 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:36:32,482 - 
+1 Failed download:
+2025-07-08 13:36:32,482 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:36:32,600 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:36:33,747 - 
+1 Failed download:
+2025-07-08 13:36:33,747 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:36:33,849 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:36:33,968 - 
+1 Failed download:
+2025-07-08 13:36:33,969 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:37:35,116 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:37:35,198 - 
+1 Failed download:
+2025-07-08 13:37:35,198 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:37:35,613 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:37:35,805 - 
+1 Failed download:
+2025-07-08 13:37:35,805 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:37:35,916 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:37:36,053 - 
+1 Failed download:
+2025-07-08 13:37:36,053 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:38:36,425 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:38:36,720 - 
+1 Failed download:
+2025-07-08 13:38:36,721 - ['AAPL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:38:36,822 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:38:36,920 - 
+1 Failed download:
+2025-07-08 13:38:36,920 - ['TSLA']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:38:37,297 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:38:37,453 - 
+1 Failed download:
+2025-07-08 13:38:37,453 - ['GOOGL']: Exception('%ticker%: No price data found, symbol may be delisted (period=1d)')
+2025-07-08 13:45:14,557 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:45:14,662 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:45:15,100 - 
+1 Failed download:
+2025-07-08 13:45:15,101 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:45:15,101 - 
+1 Failed download:
+2025-07-08 13:45:18,546 - 
+1 Failed download:
+2025-07-08 13:45:18,547 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:45:18,547 - 
+1 Failed download:
+2025-07-08 13:45:18,548 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:45:19,527 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:45:20,197 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:45:20,757 - 
+1 Failed download:
+2025-07-08 13:45:20,757 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:45:20,757 - 
+1 Failed download:
+2025-07-08 13:45:20,758 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:45:21,529 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:45:23,237 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:20,771 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:20,775 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:21,889 - 
+1 Failed download:
+2025-07-08 13:46:21,889 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:21,890 - 
+1 Failed download:
+2025-07-08 13:46:21,890 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:21,897 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:21,906 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:21,918 - 
+1 Failed download:
+2025-07-08 13:46:21,918 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:21,919 - 
+1 Failed download:
+2025-07-08 13:46:21,919 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:21,927 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:21,933 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:22,302 - 
+1 Failed download:
+2025-07-08 13:46:22,302 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:22,303 - 
+1 Failed download:
+2025-07-08 13:46:22,303 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:44,295 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:46,905 - 
+1 Failed download:
+2025-07-08 13:46:46,905 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:46,911 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:47,696 - 
+1 Failed download:
+2025-07-08 13:46:47,696 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:46:47,705 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:46:48,575 - 
+1 Failed download:
+2025-07-08 13:46:48,576 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:22,326 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:22,330 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:23,849 - 
+1 Failed download:
+2025-07-08 13:47:23,849 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:23,850 - 
+1 Failed download:
+2025-07-08 13:47:23,850 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:23,856 - 
+1 Failed download:
+2025-07-08 13:47:23,856 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:23,858 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:23,864 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:23,869 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:24,271 - 
+2 Failed downloads:
+2025-07-08 13:47:24,271 - ['GOOGL', 'TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:24,275 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:25,594 - 
+1 Failed download:
+2025-07-08 13:47:25,594 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:48,589 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:49,053 - 
+1 Failed download:
+2025-07-08 13:47:49,053 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:49,059 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:50,474 - 
+1 Failed download:
+2025-07-08 13:47:50,474 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:47:50,478 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:47:51,888 - 
+1 Failed download:
+2025-07-08 13:47:51,888 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:50:14,217 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:50:14,661 - 
+1 Failed download:
+2025-07-08 13:50:14,661 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:50:16,119 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:50:16,529 - 
+1 Failed download:
+2025-07-08 13:50:16,529 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:50:18,107 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:50:18,602 - 
+1 Failed download:
+2025-07-08 13:50:18,602 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:51:18,613 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:51:29,710 - 
+1 Failed download:
+2025-07-08 13:51:29,710 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?range=1d&interval=1m&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=Edge%3A+Too+Many+Requests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0CFF5B20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:51:29,714 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:51:43,255 - 
+1 Failed download:
+2025-07-08 13:51:43,255 - ['TSLA']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v1/test/getcrumb (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0C2BCDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:51:43,259 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:51:46,223 - 
+1 Failed download:
+2025-07-08 13:51:46,223 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:52:46,239 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:52:57,313 - 
+1 Failed download:
+2025-07-08 13:52:57,313 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?range=1d&interval=1m&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=Edge%3A+Too+Many+Requests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0CF31220>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:52:57,317 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:53:10,467 - 
+1 Failed download:
+2025-07-08 13:53:10,467 - ['TSLA']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Max retries exceeded with url: /v1/test/getcrumb (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0CF10D90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:53:10,472 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:53:21,709 - 
+1 Failed download:
+2025-07-08 13:53:21,709 - ['GOOGL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='query2.finance.yahoo.com', port=443): Max retries exceeded with url: /v8/finance/chart/%ticker%?range=1d&interval=1m&includePrePost=False&events=div%2Csplits%2CcapitalGains&crumb=Edge%3A+Too+Many+Requests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0CF10190>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:54:21,726 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:54:34,336 - 
+1 Failed download:
+2025-07-08 13:54:34,336 - ['AAPL']: ConnectionError(MaxRetryError("HTTPSConnectionPool(host='www.yahoo.com', port=443): Max retries exceeded with url: /?guccounter=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000026D0D00CA60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))"))
+2025-07-08 13:54:34,340 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:54:37,265 - 
+1 Failed download:
+2025-07-08 13:54:37,265 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:54:37,269 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:54:38,728 - 
+1 Failed download:
+2025-07-08 13:54:38,728 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:55:38,963 - Failed to get ticker 'AAPL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:55:41,508 - 
+1 Failed download:
+2025-07-08 13:55:41,509 - ['AAPL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:55:41,519 - Failed to get ticker 'TSLA' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:55:41,911 - 
+1 Failed download:
+2025-07-08 13:55:41,911 - ['TSLA']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-07-08 13:55:41,916 - Failed to get ticker 'GOOGL' reason: Expecting value: line 1 column 1 (char 0)
+2025-07-08 13:55:42,253 - 
+1 Failed download:
+2025-07-08 13:55:42,254 - ['GOOGL']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
